@@ -75,11 +75,13 @@ path {
     color: #2d4a53;
 }
 
-footer {
+.footer-info {
     background-color: #2d4a53;
-    display: flex;
-    justify-content: center;
-    color:#fff;
+    color: #fff;
+    width: 100vw;
+    position: relative;
+    bottom: 0;
+    text-align: center;
 }
 
 ::-webkit-scrollbar {
