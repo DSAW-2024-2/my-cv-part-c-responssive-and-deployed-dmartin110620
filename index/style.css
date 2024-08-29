@@ -71,10 +71,8 @@ section {
     text-decoration: none;
 }
 
-.fa {
-    font-size: 24px;
+path {
     color: #2d4a53;
-    padding: 10px 10px 10px 0px;
 }
 
 footer {
